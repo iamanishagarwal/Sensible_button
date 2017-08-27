@@ -1,0 +1,26 @@
+body
+{
+  text-align: center;
+}
+#box
+{
+  width: 275px;
+  height: 80px;
+  border: 3px solid black;
+  padding: 5px;
+  margin: 100px auto;
+  display: block;
+  border-radius: 60px;
+  background-color: #FDFEFE;
+}
+#innerBox
+{
+  width: 60px;
+  height: 60px;
+  background-color: #17202A  ;
+  margin: 8px;
+  border-radius: 60px;
+  border: 3px solid #17202A ;
+  position: relative;
+  left: 0px;
+}
