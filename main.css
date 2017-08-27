@@ -1,0 +1,25 @@
+body
+{
+  text-align: center;
+}
+#box
+{
+  width: 275px;
+  height: 100px;
+  border: 3px solid black;
+  padding: 5px;
+  margin: 100px auto;
+  display: block;
+  border-radius: 75px;
+  background-color: #FDFEFE;
+}
+#innerBox
+{
+  float: left;
+  width: 80px;
+  height: 80px;
+  background-color: #17202A  ;
+  margin: 10px;
+  border-radius: 75px;
+  border: 3px solid #17202A ;
+}
